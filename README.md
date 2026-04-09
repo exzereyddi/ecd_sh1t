@@ -34,12 +34,15 @@
 Контакты авторов (50+)
 
 - t.1e/animstate, v1.com/alternativehack, youtube.co1/c/Sayuri7Mad
+
 ⚙️ Технические сигнатуры (300+)
 
 - aimbot.fov.distance.based, knifebot_bot_bypass, speedhack_active
+
 🎨 OpenGL/DirectX хуки (100+)
 
 - glColor4f, wglSwapBuffers, R_GLStudioDrawPoints
+
 🎯 Паттерны байткода (50+)
 
 - E8 ?? ?? ?? ?? 83 C4 04 8B 0D, 48 8B 05 ?? ?? ?? ?? FF D0

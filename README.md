@@ -14,7 +14,7 @@
 Названия читов (NorAdrenaline, Midnight, Interium, Not_HPP, SultanHack, xHancer, FluidAim, Zero, Valthrun, Horion, Aristois, LiquidBounce, Jex, Fluger и сотни других)
 
 
-Классические подписи (You are injected!, Cheat injected :3, Press INSERT to open settings, v1.com/alternativehack и т.д.)
+Классические подписи калек (You are injected!, Cheat injected :3, Press INSERT to open settings, v1.com/alternativehack и т.д.)
 
 
 Отладочные .pdb пути (Release\AlterNative.pdb, NOT_HPP.pdb, xHancer.pdb и т.д.)
@@ -27,7 +27,7 @@
 
 Контакты авторов (50+)
 
-- t.1e/animstate, v1.com/alternativehack, youtube.co1/c/Sayuri7Mad
+- t.me/animstate, vk.com/alternativehack, youtube.com/c/Sayuri7Mad
 
 ⚙️ Технические сигнатуры (300+)
 
@@ -43,6 +43,6 @@
 
 # ПОКАЖЕТ ВСЕГО 131 ДЕТЕКТ ЧИТОВ НА CS16
 
-# Добавлял 851-у строку. Но там попали и кс2 и майнкрафт. Но проверка на игру оказывается есть, так что будет только 131 детект читов
+# Добавлял 851-у строку. Но там попали и кс2 и майнкрафт. Но проверка на игру оказывается есть, так что будет только 131 детект читов^^
 
 Посмотреть как выглядит детект - https://t.me/originalHNS/1106

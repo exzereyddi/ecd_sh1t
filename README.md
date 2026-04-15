@@ -1,4 +1,5 @@
 > Важно
+
 Отключить precompiled headers:
 
 Проект → Свойства → C/C++ → Precompiled Headers → Precompiled Header → выбери "Не использовать предкомпилированные заголовки"

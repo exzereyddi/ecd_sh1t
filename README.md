@@ -1,5 +1,9 @@
 > Важно
+Отключить precompiled headers:
 
+Проект → Свойства → C/C++ → Precompiled Headers → Precompiled Header → выбери "Не использовать предкомпилированные заголовки"
+
+> Что делать
 1. Запустите CS 1.6
 2. Используйте любой инжектор:
    - Riscript Injector
@@ -14,7 +18,7 @@
 Названия читов (NorAdrenaline, Midnight, Interium, Not_HPP, SultanHack, xHancer, FluidAim, Zero, Valthrun, Horion, Aristois, LiquidBounce, Jex, Fluger и сотни других)
 
 
-Классические подписи калек (You are injected!, Cheat injected :3, Press INSERT to open settings, v1.com/alternativehack и т.д.)
+Классические подписи калек (You are injected!, Cheat injected :3, Press INSERT to open settings, vk.com/alternativehack и т.д.)
 
 
 Отладочные .pdb пути (Release\AlterNative.pdb, NOT_HPP.pdb, xHancer.pdb и т.д.)
